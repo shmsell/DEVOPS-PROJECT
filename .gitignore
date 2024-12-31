@@ -1,0 +1,16 @@
+# Fichiers de log
+*.log
+
+# Dossier de build
+/vendor/
+
+# Dossier des dépendances
+/node_modules/
+
+# Fichiers de configuration de l'IDE (par exemple, Visual Studio Code, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
